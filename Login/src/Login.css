@@ -1,0 +1,29 @@
+.Login {
+  text-align: center;
+  background-color: lightblue;
+  height: 800px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  
+}
+
+.Login-header {
+  font-size: 150%;
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
+  background-color: lightgrey;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: ;
+  border-bottom: solid;
+  border-color: grey;
+  
+}
+
+
