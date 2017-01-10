@@ -1,0 +1,78 @@
+*{margin:0px;padding:0px}
+body{background-color: #cccbc8;}
+
+
+.Menu{
+	border-style: solid;
+	border-color: black;
+	font-family: sans-serif;
+	width: 6000%;
+	background: white;
+	height: 800px;
+	margin: 50px auto 0 auto;
+	color: white;
+
+	box-shadow:
+	0 5px 15px 1px rgba(0,0,0,0.8),
+	0 0 200px 10px rgba(255,255,255,0.5);
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height:90px;
+ 
+}
+
+.Menu2{
+	font-size: 40px;
+	line-height: 50px;
+	padding: 0 80px;
+	margin:0px auto 30 auto;
+	background: lightblue;
+	cursor: ;
+	color: black ;
+
+}
+
+.Menu li{
+	list-style-type:  none;
+
+}
+
+.Category h3{
+	font-size: 20px;
+	line-height: 50px;
+	padding: 0 10px;
+	margin: px;
+	background: grey;
+	cursor: pointer;
+	color:lightblue;
+
+}
+.icon{
+	font-size: 16px;
+	margin-right: 10px;
+
+}
+
+.Category ul li a{
+
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 30px;
+	display: block;
+	padding: 0 15px;
+	transition: all 0.55s;
+box-shadow:
+	0 5px 15px 1px rgba(0,0,0,0.2),
+	0 0 200px 10px rgba(255,255,255,0.5);
+}
+
+.Category ul li a:hover{
+	background: grey;
+	border-left: 5px solid lightblue;
+	transition: all 0.55s;
+	color: white;
+}	
+
