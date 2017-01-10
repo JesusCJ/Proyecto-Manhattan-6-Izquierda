@@ -1,0 +1,8 @@
+Para ejecutar los módulos Login, Signup y Menu:
+  -Ejecutar npm install (resuelve dependencias)
+  -Ejecutar npm start (ejecuta el programa en puerto local)
+  
+ Para ejecutar el módulo Map:
+  -Ejecutar npm install (resuelve dependencias)
+  -Ejecutar npm run watch
+  -Clickar en index.html
